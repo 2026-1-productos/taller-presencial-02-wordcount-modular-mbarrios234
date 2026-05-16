@@ -1,4 +1,5 @@
 """Entry point for the homework package."""
+# Usage:
 
 # python3 -m homework 10 data/input data/output
 
